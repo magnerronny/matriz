@@ -24,7 +24,6 @@ func ORDENAR(array []int, inicio int, fin int)[]int{
 			
 		}
 	}
-	array_div:=[]int{0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}
 	
 	var tem int
 	for x := inicio; x < fin; x++ {
